@@ -99,5 +99,5 @@ while row_tracker < len(rows) and row_tracker < 400:
     block = thread_block(row_tracker, rows)
     row_tracker = block[0] + 1
     print(row_tracker)
-    print(thread_page(rows[row_tracker][0], block[1]))
-    write_twee_thread(rows[row_tracker][0], thread_page(rows[row_tracker][0], block[1]))
+    print(thread_page(rows[row_tracker-1][0], block[1]))
+    write_twee_thread(rows[row_tracker-1][0], thread_page(rows[row_tracker][0], block[1]))

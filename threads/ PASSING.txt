@@ -1,0 +1,17 @@
+
+::  RESPONSE TO S CALL
+[[Back|Main]]
+    
+
+    <<cont keypress append>>
+        
+    Subject:  MITCHELL'S RIGHT
+    From: Jake Sullivan
+    To: H
+    Sent: Thursday, September 23, 2010 12:53 PM
+
+    Read from bottom up.
+    <hr>
+    
+    <</cont>>
+    

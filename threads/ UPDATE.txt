@@ -1,0 +1,33 @@
+
+::  UPDATES
+[[Back|Main]]
+    
+
+    <<cont keypress append>>
+        
+    Subject:  TRAFFIC BELOW FROM ELLENY
+    From: Cheryl Mills
+    To: H
+    Sent: 
+
+    Mills, Cheryl D <MillsCD@state.gov>
+Thursday, April 16, 2009 8:01 AM
+H
+Traffic below from elleny B6
+fyi
+    <hr>
+    
+    <<cont keypress append>>
+        
+    Subject:  TRAFFIC BELOW FROM ELLENY
+    From: Hillary Clinton
+    To: millscd@state.gov
+    Sent: Thursday, April 16, 2009 8:21 AM
+
+    
+    <hr>
+    
+    <</cont>>
+    
+    <</cont>>
+    
