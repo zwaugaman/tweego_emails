@@ -2,6 +2,8 @@ import sqlite3
 from datetime import datetime
 import os.path
 import io
+from operator import itemgetter, attrgetter
+
 
 conn = sqlite3.connect("/Users/user/OneDrive/Chat Fiction Project/Hillary Clinton Emails/database/database.sqlite")
 cursor = conn.cursor()
@@ -22,6 +24,8 @@ cursor.execute("""
          """
          )
 rows = cursor.fetchall()
+rows = sorted(rows,key=itemgetter(1))
+
 
 def conversation_block(subject, sender, receipient, sent_date, body): #formats the emails for Twee
     return("""
@@ -70,11 +74,11 @@ def thread_block(line, msg_array): #creates the thread block
 
 def thread_page(thread_title, message_block):
     return("""
-    :: {0}
-    [[Back|Main]]
+:: {0}
+[[Back|Main]]
     
-    {1}
-    """.format(thread_title, message_block)
+{1}
+""".format(thread_title, message_block)
     )
 
 def write_twee_thread(thread_title, body_text):

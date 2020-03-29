@@ -1,8 +1,8 @@
 
-    :: (AP) AFGHAN INSURGENT ATTACK KILLS BRITISH SOLIDER
-    [[Back|Main]]
+:: (AP) AFGHAN INSURGENT ATTACK KILLS BRITISH SOLIDER
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AFP) PASTOR SAYS MAY HALT KORAN BURNING IF WHITE HOUSE ASKS
@@ -20,5 +20,4 @@ jm
     <hr>
     
     <</cont>>
-    
     

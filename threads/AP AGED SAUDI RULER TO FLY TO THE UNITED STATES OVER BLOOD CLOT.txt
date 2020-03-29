@@ -1,8 +1,8 @@
 
-    :: (AP) AGED SAUDI RULER TO FLY TO THE UNITED STATES OVER BLOOD CLOT
-    [[Back|Main]]
+:: (AP) AGED SAUDI RULER TO FLY TO THE UNITED STATES OVER BLOOD CLOT
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) AFGHANISTAN: UN-BACKED FRAUD PANEL MEMBER RESIGNS
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

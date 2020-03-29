@@ -1,8 +1,8 @@
 
-    :: (AP) CHINA, JAPAN LEADERS MEET AMID ROW
-    [[Back|Main]]
+:: (AP) CHINA, JAPAN LEADERS MEET AMID ROW
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) CANADA CONSIDERING STAYING IN AFGHANISTAN
@@ -26,5 +26,4 @@
     <</cont>>
     
     <</cont>>
-    
     

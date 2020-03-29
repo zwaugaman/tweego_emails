@@ -1,8 +1,8 @@
 
-    :: (AFP) PASTOR SAYS MAY HALT KORAN BURNING IF WHITE HOUSE ASKS
-    [[Back|Main]]
+:: (AFP) PASTOR SAYS MAY HALT KORAN BURNING IF WHITE HOUSE ASKS
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AFP) HAITI DELAYS FINAL LIST OF PRESIDENTIAL CANDIDATES
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

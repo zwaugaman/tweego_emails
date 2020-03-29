@@ -1,8 +1,8 @@
 
-    :: (AP) CIA BASE CHIEF KILLED IN ATTACK
-    [[Back|Main]]
+:: (AP) CIA BASE CHIEF KILLED IN ATTACK
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) CHINA, JAPAN LEADERS MEET AMID ROW
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

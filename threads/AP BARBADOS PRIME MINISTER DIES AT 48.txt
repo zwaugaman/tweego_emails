@@ -1,8 +1,8 @@
 
-    :: (AP) BARBADOS PRIME MINISTER DIES AT 48
-    [[Back|Main]]
+:: (AP) BARBADOS PRIME MINISTER DIES AT 48
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) AUNT SAYS FREE HIKER IS RETURNING TO U.S. WITH MOM
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

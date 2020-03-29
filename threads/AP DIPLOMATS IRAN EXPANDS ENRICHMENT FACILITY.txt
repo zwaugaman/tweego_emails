@@ -1,8 +1,8 @@
 
-    :: (AP) DIPLOMATS: IRAN EXPANDS ENRICHMENT FACILITY
-    [[Back|Main]]
+:: (AP) DIPLOMATS: IRAN EXPANDS ENRICHMENT FACILITY
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) DANISH INTELLIGENCE PLANNED ATTACKS NOT IMMINENT
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

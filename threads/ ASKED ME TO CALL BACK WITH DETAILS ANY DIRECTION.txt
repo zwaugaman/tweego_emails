@@ -1,0 +1,17 @@
+
+::  ASKED ME TO CALL BACK WITH DETAILS. ANY DIRECTION?
+[[Back|Main]]
+    
+
+    <<cont keypress append>>
+        
+    Subject:  - RESUME
+    From: Capricia Marshall
+    To: Abedin, Huma; H
+    Sent: 
+
+    Yes - and it is.
+    <hr>
+    
+    <</cont>>
+    

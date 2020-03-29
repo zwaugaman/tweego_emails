@@ -1,8 +1,8 @@
 
-    :: 'STONE HARBOUR, LLC'
-    [[Back|Main]]
+:: 'STONE HARBOUR, LLC'
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: 'MEET THE PRESS' TRANSCRIPT: U.S. AMBASSADOR TO THE UNITED NATIONS SUSAN RICE
@@ -29,5 +29,4 @@ Re: 'Meet the Press Transcript: U.S. Ambassador to the United Nations Susan Rice
     <</cont>>
     
     <</cont>>
-    
     

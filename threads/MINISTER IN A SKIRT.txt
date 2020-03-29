@@ -1,8 +1,8 @@
 
-    :: "MINISTER IN A SKIRT"
-    [[Back|Main]]
+:: "MINISTER IN A SKIRT"
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: "A BAG OF FLOUR." AN OP-ED BY JAVED CHAUDHRY IN LIBERAL URDU DAILY "EXPRESS" (11/02)
@@ -15,5 +15,4 @@ Jm
     <hr>
     
     <</cont>>
-    
     

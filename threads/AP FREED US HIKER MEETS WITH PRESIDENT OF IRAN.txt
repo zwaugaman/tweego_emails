@@ -1,8 +1,8 @@
 
-    :: (AP) FREED US HIKER MEETS WITH PRESIDENT OF IRAN
-    [[Back|Main]]
+:: (AP) FREED US HIKER MEETS WITH PRESIDENT OF IRAN
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) FERRERO-WALDNER ABANDONS RACE FOR UNESCO TOP JOB
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

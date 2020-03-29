@@ -1,8 +1,8 @@
 
-    :: (AP) DUTCH PROSECUTORS SAY YEMENIS FREED
-    [[Back|Main]]
+:: (AP) DUTCH PROSECUTORS SAY YEMENIS FREED
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) DIPLOMATS: IRAN EXPANDS ENRICHMENT FACILITY
@@ -16,5 +16,4 @@ Fw: (AP) Diplomats: Iran expands enrichment facility
     <hr>
     
     <</cont>>
-    
     

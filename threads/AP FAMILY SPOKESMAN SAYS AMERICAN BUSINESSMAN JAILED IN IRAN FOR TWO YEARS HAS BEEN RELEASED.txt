@@ -1,8 +1,8 @@
 
-    :: (AP) FAMILY SPOKESMAN SAYS AMERICAN BUSINESSMAN JAILED IN IRAN FOR TWO YEARS HAS BEEN RELEASED
-    [[Back|Main]]
+:: (AP) FAMILY SPOKESMAN SAYS AMERICAN BUSINESSMAN JAILED IN IRAN FOR TWO YEARS HAS BEEN RELEASED
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) EXTRADITION RUMORS CLOSE JAMAICA BUSINESS EARLY
@@ -17,5 +17,4 @@ Fw: (AP) Extradition rumors close Jamaica businesses early
     <hr>
     
     <</cont>>
-    
     

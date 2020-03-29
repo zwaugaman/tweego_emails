@@ -1,8 +1,8 @@
 
-    :: (AP) HAITI PM: US BAPTISTS KNEW REMOVING KIDS WAS WRONG
-    [[Back|Main]]
+:: (AP) HAITI PM: US BAPTISTS KNEW REMOVING KIDS WAS WRONG
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) GERMANY WINS SECURITY COUNCIL SEAT
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

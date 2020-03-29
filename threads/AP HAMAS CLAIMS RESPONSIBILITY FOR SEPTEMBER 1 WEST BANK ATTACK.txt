@@ -1,8 +1,8 @@
 
-    :: (AP) HAMAS CLAIMS RESPONSIBILITY FOR SEPTEMBER 1 WEST BANK ATTACK
-    [[Back|Main]]
+:: (AP) HAMAS CLAIMS RESPONSIBILITY FOR SEPTEMBER 1 WEST BANK ATTACK
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) HAITI PM: US BAPTISTS KNEW REMOVING KIDS WAS WRONG
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

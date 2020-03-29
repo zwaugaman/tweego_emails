@@ -1,8 +1,8 @@
 
-    :: (AP) GERMANY WINS SECURITY COUNCIL SEAT
-    [[Back|Main]]
+:: (AP) GERMANY WINS SECURITY COUNCIL SEAT
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) FREED US HIKER MEETS WITH PRESIDENT OF IRAN
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

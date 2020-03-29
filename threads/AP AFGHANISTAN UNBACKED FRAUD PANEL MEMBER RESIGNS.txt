@@ -1,8 +1,8 @@
 
-    :: (AP) AFGHANISTAN: UN-BACKED FRAUD PANEL MEMBER RESIGNS
-    [[Back|Main]]
+:: (AP) AFGHANISTAN: UN-BACKED FRAUD PANEL MEMBER RESIGNS
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) AFGHAN INSURGENT ATTACK KILLS BRITISH SOLIDER
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

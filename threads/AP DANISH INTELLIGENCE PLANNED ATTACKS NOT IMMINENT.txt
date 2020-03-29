@@ -1,8 +1,8 @@
 
-    :: (AP) DANISH INTELLIGENCE PLANNED ATTACKS NOT IMMINENT
-    [[Back|Main]]
+:: (AP) DANISH INTELLIGENCE PLANNED ATTACKS NOT IMMINENT
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) CIA BASE CHIEF KILLED IN ATTACK
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

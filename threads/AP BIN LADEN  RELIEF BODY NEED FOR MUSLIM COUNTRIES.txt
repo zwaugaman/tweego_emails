@@ -1,8 +1,8 @@
 
-    :: (AP) BIN LADEN:  RELIEF BODY NEED FOR MUSLIM COUNTRIES
-    [[Back|Main]]
+:: (AP) BIN LADEN:  RELIEF BODY NEED FOR MUSLIM COUNTRIES
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) BARBADOS PRIME MINISTER DIES AT 48
@@ -26,5 +26,4 @@
     <</cont>>
     
     <</cont>>
-    
     

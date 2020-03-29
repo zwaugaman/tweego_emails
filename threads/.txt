@@ -1,8 +1,8 @@
 
-    :: !
-    [[Back|Main]]
+:: !
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject:  UPDATES
@@ -20,5 +20,4 @@ updates
     <hr>
     
     <</cont>>
-    
     

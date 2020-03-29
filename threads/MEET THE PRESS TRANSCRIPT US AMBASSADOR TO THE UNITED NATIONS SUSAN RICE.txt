@@ -1,8 +1,8 @@
 
-    :: 'MEET THE PRESS' TRANSCRIPT: U.S. AMBASSADOR TO THE UNITED NATIONS SUSAN RICE
-    [[Back|Main]]
+:: 'MEET THE PRESS' TRANSCRIPT: U.S. AMBASSADOR TO THE UNITED NATIONS SUSAN RICE
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: #S
@@ -51,5 +51,4 @@ Nothing is coming from State publicly aside from what you said this afternoon.
     <</cont>>
     
     <</cont>>
-    
     

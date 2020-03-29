@@ -1,8 +1,8 @@
 
-    :: "A BAG OF FLOUR." AN OP-ED BY JAVED CHAUDHRY IN LIBERAL URDU DAILY "EXPRESS" (11/02)
-    [[Back|Main]]
+:: "A BAG OF FLOUR." AN OP-ED BY JAVED CHAUDHRY IN LIBERAL URDU DAILY "EXPRESS" (11/02)
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: !
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

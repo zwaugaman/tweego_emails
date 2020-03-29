@@ -1,8 +1,8 @@
 
-    :: (AP) BRAZIL SUPREME COURT ACTION DELAYS RETURN OF 9-YEAR-OLD BOY TO HIS U.S. FATHER.
-    [[Back|Main]]
+:: (AP) BRAZIL SUPREME COURT ACTION DELAYS RETURN OF 9-YEAR-OLD BOY TO HIS U.S. FATHER.
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) BIN LADEN:  RELIEF BODY NEED FOR MUSLIM COUNTRIES
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

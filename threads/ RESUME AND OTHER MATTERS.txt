@@ -1,0 +1,41 @@
+
+::  RESUME AND OTHER MATTERS
+[[Back|Main]]
+    
+
+    <<cont keypress append>>
+        
+    Subject:  RESPONSE TO S CALL
+    From: Huma Abedin
+    To: H
+    Sent: Friday, January 15, 2010 7:42 PM
+
+    
+    <hr>
+    
+    <<cont keypress append>>
+        
+    Subject:  RESPONSE TO S CALL
+    From: Cheryl Mills
+    To: H
+    Sent: Friday, January 15, 2010 9:18 PM
+
+    
+    <hr>
+    
+    <<cont keypress append>>
+        
+    Subject:  RESPONSE TO S CALL
+    From: Hillary Clinton
+    To: millscd@state.gov
+    Sent: Friday, January 15, 2010 9:20 PM
+
+    Very touching.
+    <hr>
+    
+    <</cont>>
+    
+    <</cont>>
+    
+    <</cont>>
+    

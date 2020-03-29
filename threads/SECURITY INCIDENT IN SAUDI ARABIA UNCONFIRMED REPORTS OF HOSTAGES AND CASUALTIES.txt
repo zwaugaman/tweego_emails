@@ -1,8 +1,8 @@
 
-    :: "SECURITY INCIDENT" IN SAUDI ARABIA, UNCONFIRMED REPORTS OF HOSTAGES AND CASUALTIES
-    [[Back|Main]]
+:: "SECURITY INCIDENT" IN SAUDI ARABIA, UNCONFIRMED REPORTS OF HOSTAGES AND CASUALTIES
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: "MINISTER IN A SKIRT"
@@ -64,5 +64,4 @@ an expert on North Korea at Korea University here. "People watch this for fun, n
     <hr>
     
     <</cont>>
-    
     

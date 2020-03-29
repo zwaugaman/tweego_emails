@@ -1,8 +1,8 @@
 
-    :: #1 SOCIAL MEDIA CAMPAIGN OF 2010
-    [[Back|Main]]
+:: #1 SOCIAL MEDIA CAMPAIGN OF 2010
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: "SECURITY INCIDENT" IN SAUDI ARABIA, UNCONFIRMED REPORTS OF HOSTAGES AND CASUALTIES
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

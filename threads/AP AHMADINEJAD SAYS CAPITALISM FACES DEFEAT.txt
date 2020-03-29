@@ -1,8 +1,8 @@
 
-    :: (AP) AHMADINEJAD SAYS CAPITALISM FACES DEFEAT
-    [[Back|Main]]
+:: (AP) AHMADINEJAD SAYS CAPITALISM FACES DEFEAT
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) AGED SAUDI RULER TO FLY TO THE UNITED STATES OVER BLOOD CLOT
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     

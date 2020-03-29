@@ -1,8 +1,8 @@
 
-    :: (AP) EXTRADITION RUMORS CLOSE JAMAICA BUSINESS EARLY
-    [[Back|Main]]
+:: (AP) EXTRADITION RUMORS CLOSE JAMAICA BUSINESS EARLY
+[[Back|Main]]
     
-    
+
     <<cont keypress append>>
         
     Subject: (AP) EGYPT BASIS TO MOVE TO DIRECT PEACE TALKS LACKING
@@ -14,5 +14,4 @@
     <hr>
     
     <</cont>>
-    
     
