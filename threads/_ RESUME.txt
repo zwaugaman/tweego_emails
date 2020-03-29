@@ -1,6 +1,5 @@
-
-    ::  - RESUME
-    [[Back|Main]]
+::- RESUME
+[[Back|Main]]
     
     
     <<cont keypress append>>
