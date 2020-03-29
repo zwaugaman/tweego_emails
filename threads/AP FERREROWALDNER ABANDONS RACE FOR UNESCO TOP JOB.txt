@@ -1,0 +1,33 @@
+
+    :: (AP) FERRERO-WALDNER ABANDONS RACE FOR UNESCO TOP JOB
+    [[Back|Main]]
+    
+    
+    <<cont keypress append>>
+        
+    Subject: (AP) FAMILY SPOKESMAN SAYS AMERICAN BUSINESSMAN JAILED IN IRAN FOR TWO YEARS HAS BEEN RELEASED
+    From: Huma Abedin
+    To: H
+    Sent: Saturday, October 16, 2010 2:22 PM
+
+    been released
+    <hr>
+    
+    <<cont keypress append>>
+        
+    Subject: (AP) FAMILY SPOKESMAN SAYS AMERICAN BUSINESSMAN JAILED IN IRAN FOR TWO YEARS HAS BEEN RELEASED
+    From: Huma Abedin
+    To: H
+    Sent: Saturday, October 16, 2010 3:50 PM
+
+    been released
+Reza teghavi
+Businessman from Los angeles jailed in same prison as hikers since 2008. Was accused of giving money to anti govt
+group.
+    <hr>
+    
+    <</cont>>
+    
+    <</cont>>
+    
+    
